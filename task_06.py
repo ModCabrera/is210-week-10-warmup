@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Task Loop through and return dict of Heroes and Pets."""
-
-
 import data
+
 
 SUPER_SIDEKICKS = {}
 

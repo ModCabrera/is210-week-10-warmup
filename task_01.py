@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Module Creates Dictionary from Table of Data in Readme."""
+"""Module Contains Dictionary GRADE_DATA."""
 
 GRADE_DATA = {
     'Luke Skywalker': {

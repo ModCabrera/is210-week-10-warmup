@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Update Function on Dictionary"""
-
-
 import data
 
 
